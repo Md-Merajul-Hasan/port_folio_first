@@ -1,4 +1,5 @@
 #welcome{
+    position: absolute;
     color:rgb(138, 43, 226);
     text-align: center;
     font-size: 40px;
@@ -11,10 +12,11 @@
     text-shadow: 0 0 10px red;
 }
 #image{
+    position: absolute;
     text-align: center;
     background-color: rgb(135, 57, 207);
 }
-#image:hover{
+#image:hover{ 
     background-color: rgb(97, 67, 125);
 }
 a{
