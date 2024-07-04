@@ -39,3 +39,16 @@ a{
     text-align: left;
     color:white;
 }
+.about{
+    font-size: larger;
+    font-weight: bolder;
+    color:blueviolet;
+}
+.about:hover{
+    color:rgb(255, 7, 23);
+}
+a:hover{
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
+}
